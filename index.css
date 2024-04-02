@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.food-munch-logo {
+    width: 65px;
+    height: 60px;
+}
+.im-3 {
+    height: 800px;
+    width: 200px;
+}
+
+.h {
+    font-family: Bree Serif;
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+.p {
+    font-size: 19px;
+    font-family: Bree Serif;
+    color: black;
+}
+
+.h1 {
+    font-family: Bree serif;
+    font-size: 40px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    height:100vh;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 43px;
+    font-weight: bold;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Bree Serif";
+    font-size: 24px;
+    font-weight: 300;
+}
+.ima{
+    height:490px;
+    width:540px;
+    border-radius:30px;
+}
+.a{
+    font-size:30px;
+    color:Green;
+
+}
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#011c01, #014502, #038705, #02e306);
+    width: 140px;
+    height: 54px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 17px;
+    font-family: Bree serif;
+}
+.custom-button1 {
+    color: white;
+    background-image: linear-gradient(#080700,#665901,#c7ad02,#f7d702);
+    width: 140px;
+    height: 54px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 17px;
+    font-family: Bree serif;
+}
+.custom-button2 {
+    color: white;
+    background-image: linear-gradient(#0d000a,#5e0149,#ab0283,#fc03c2);
+    width: 140px;
+    height: 54px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 17px;
+    font-family: Bree serif;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+.bt{
+    border-radius:10px;
+    width:90px;
+height:40px;
+background-image:linear-gradient(#0383a3,#02c8fa);
+color:White;
+font-family:Bree Serif;
+font-size:15px;
+}
+.wcu-section {
+    background-color: #f9fbfe;
+    padding: 20px;
+    background-image:url("https://wallpapercave.com/wp/wp6845630.jpg");
+    background-size:cover;
+}
+
+.wcu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+    height: 220px;
+}
+
+.menu-card-title {
+    color: #014502;
+    font-family: "Bree serif";
+    font-size: 23px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+.bt2{
+    height:60px;
+    width:110px;
+    color:white;
+    text-align:center;
+    padding:5px;
+    border-radius:15px;
+    font-family:Bree serif;
+    font-size:19px;
+}
+.menu-item-card {
+    border-radius: 16px;
+    height:320px;
+    width:350px;
+    background-color:white;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.delivery-and-payment-section {
+    background-image: linear-gradient(to top, #fff8db,#c7fc92);
+    
+}
+.ha{
+    font-family:bree serif;
+    font-size:20px;
+    font-weight:bold;
+
+}
+.w{
+    border-style:solid;
+    border-width:2px;
+    font-size:25px;
+    background-color:#e5eaf4 ; 
+    height:100vh; 
+}
+.imb{
+    height:550px;
+    width:500px;
+}
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-image: linear-gradient(to bottom, #fff8db,#d3f5c2);
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+}
+
+.follow-us-section {
+    background-image: linear-gradient(#deefd5,#e4fad9,#c4edb0,#bde4a8);
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #1f5902;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding:20px;
+}
+
+.icon {
+    color: #56fc03;
+    font-size: 45px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
